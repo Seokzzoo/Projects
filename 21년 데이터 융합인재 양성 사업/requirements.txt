@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+konlpy
+gensim
+matplotlib
+selenium
+beautifulsoup4
+seaborn
+wordcloud
+collections

@@ -1,0 +1,13 @@
+igraph
+plotrix
+tm
+XML
+KoNLP
+stringr
+arules
+multilinguer
+wordcloud
+dplyr
+wordcloud2
+httr
+RSQLite
